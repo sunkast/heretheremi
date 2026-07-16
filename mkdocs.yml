@@ -1,0 +1,47 @@
+site_name: HERE & THERE
+site_url: https://heretheremi.org/
+nav:
+    - Home: index.md
+    - Group Rules: rules.md
+    - Best Practices: best-practices.md
+    - How To Join: how-to-join.md
+theme:
+  name: material
+  favicon: images/logo.png
+  logo: images/logo-black.png
+  font:
+    text: Open Sans
+  features:
+    - navigation.tabs
+    - header.autohide
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: yellow
+
+
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: yellow
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://go.heretheremi.org/fb
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: "🔗"
