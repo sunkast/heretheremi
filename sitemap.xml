@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://heretheremi.org/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://heretheremi.org/best-practices/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://heretheremi.org/faq/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://heretheremi.org/how-to-host/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://heretheremi.org/how-to-join/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://heretheremi.org/rules/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+</urlset>
