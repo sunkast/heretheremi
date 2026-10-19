@@ -22,7 +22,7 @@ Political debate, explicit sexual content, and other topics likely to create unn
 
 **6. Give events room to succeed**
 
-Event hosts plan around attendance. If you respond “going,” please make a genuine effort to attend or update your response if plans change. Hosts may set reasonable limits based on venue size, timing, reservations, or event format. Please respect host guidance, venue staff, and the practical needs of each event. Repeated late cancellations, habitual no-shows, arriving without RSVP when space is limited, or behavior that disrupts events may affect continued participation.
+Event hosts plan around attendance. If you respond “going,” please attend or update your RSVP if plans change. Hosts may set attendance limits based on venue capacity or event format. Please respect host guidance, staff, and event needs. Repeated late cancellations, no-shows, unannounced drop-ins, or disruptive behavior may affect continued participation. Cross-posted events must be noted in the event description.
 
 **7. Respect privacy inside and outside the group**
 
@@ -30,7 +30,7 @@ Do not share screenshots, private conversations, personal details, or event phot
 
 **8. Authentic profiles and participation matter**
 
-Profiles should appear genuine and active. Accounts that appear misleading, incomplete, or inconsistent with group expectations may be declined or removed. When joining, include the word maple in your answer to the rules question as confirmation that you have read through the guidelines. Authentic profiles are expected to include a visible profile photo and signs of recent activity within the previous 12 months. Must be a Michigan resident and 21 years of age or older.
+Profiles should appear genuine and active. Accounts that appear misleading, incomplete, or inconsistent with group expectations may be declined or removed. When joining, include the word respect in your answer to the rules question as confirmation that you have read through the guidelines. Authentic profiles are expected to include a visible profile photo and signs of recent activity within the previous 12 months. Must be a Michigan resident and 21 years of age or older.
 
 **9. Admin decisions are final**
 

@@ -12,7 +12,7 @@ Events may range from simple gatherings to planned outings, but the shared goal 
 
 Ready to meet new people and make real connections? Join us and check out what’s coming up. Already a member? Be sure to browse our upcoming events and jump in on something that interests you.
 
-[Learn How To Join](how-to-join.md){ .md-button .md-button--primary }
+[Learn How To Join](join.md){ .md-button .md-button--primary }
 
 ## Already a Member?
 

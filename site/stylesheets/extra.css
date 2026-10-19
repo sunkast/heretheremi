@@ -1,0 +1,54 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #ffe171;
+  --md-primary-bg-color: #000000;
+}
+.md-header {
+  background-color: #ffe171 !important;
+  color: #000000 !important;
+}
+
+.md-header * {
+  color: #000000 !important;
+}
+
+/* LIGHT MODE (but dark background) */
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: #ffe171;
+}
+
+[data-md-color-scheme="default"] .md-typeset a:hover {
+  color: #bec1c6;
+}
+
+/* DARK MODE */
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #ffe171;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #bec1c6;
+}
+
+/* LIGHT MODE */
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: #ffe171;
+}
+
+[data-md-color-scheme="default"] .md-typeset a:hover {
+  color: #2b2b2b;
+}
+
+/* DARK MODE */
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #2b2b2b;
+  --md-button--primary: #ff0000;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #2b2b2b;
+}
+
+.md-button {
+  /*background-color: #ffe171 !important;
+  color: #000000 !important;*/
+}

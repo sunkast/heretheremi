@@ -4,7 +4,7 @@ nav:
     - Home: index.md
     - Group Rules: rules.md
     - Best Practices: best-practices.md
-    - How To Join: how-to-join.md
+    - How To Join: join.md
 theme:
   name: material
   favicon: images/logo.png

@@ -46,21 +46,22 @@ For example, saying **"Montrose Pub"** may not help someone unfamiliar with the 
 
 ### b. Help Members Feel Comfortable Attending
 Include details that make the event inviting:
-- Mention if a table or area is reserved  
-- Let members know how to recognize the group  
-- Post a photo once you arrive  
-- Describe what to look for  
+- Mention if a table or area is reserved
+- Let members know how to recognize the group
+- Post a photo once you arrive
+- Describe what to look for
+- Mention if the event is crossposted to other groups
 
 If someone offers to serve as a wingman, meet people outside, or help new members walk in, that can make a big difference—especially for newer, shy, or introverted members.
 
 ### c. Include Helpful Logistics
 If applicable, mention:
-- Costs  
-- Ticket requirements  
-- Limited seating  
-- Parking details  
-- Reservation needs  
-- Anything useful for someone attending for the first time  
+- Costs
+- Ticket requirements
+- Limited seating
+- Parking details
+- Reservation needs
+- Anything useful for someone attending for the first time
 
 ## 4) Add a Co-Host
 You may add one co-host after the event is created (desktop is often easiest for this).
