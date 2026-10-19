@@ -12,6 +12,7 @@ Keep the title **short, clear, and engaging**, and **always include the city nam
 Including the city helps members quickly identify where an event is taking place when browsing the event list on mobile or desktop. Not everyone will recognize a venue name, band name, movie title, or local landmark without location context.
 
 **Examples:**  
+
 - Bowling & Fun – Novi  
 - Movies – Lansing  
 - Live Band & Drinks – Flint   
@@ -56,6 +57,7 @@ If someone offers to serve as a wingman, meet people outside, or help new member
 
 ### c. Include Helpful Logistics
 If applicable, mention:
+
 - Costs
 - Ticket requirements
 - Limited seating
@@ -80,6 +82,7 @@ Use an image that visually represents the event.
 Please avoid screenshots of flyers or other events that contain text, dates, or unrelated details.
 
 Better options include:
+
 - A venue photo  
 - A band image  
 - A hiking trail  
